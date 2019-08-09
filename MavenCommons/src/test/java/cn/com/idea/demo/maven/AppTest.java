@@ -19,6 +19,6 @@ public class AppTest
     }
     @Test
     public void testTest1(){
-
+        System.out.println("added in MavenParent");
     }
 }
