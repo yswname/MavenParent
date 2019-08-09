@@ -3,11 +3,11 @@
 .idea/
 /target
 /MavenCommons/target
-/MavenCommons/MavenParent.iml
+/MavenCommons/MavenCommons.iml
 /MavenDAOImpl/target
-/MavenDAOImpl/MavenParent.iml
+/MavenDAOImpl/MavenDAOImpl.iml
 /MavenServiceImpl/target
-/MavenServiceImpl/MavenParent.iml
+/MavenServiceImpl/MavenServiceImpl.iml
 /MavenWeb/target
-/MavenWeb/MavenParent.iml
+/MavenWeb/MavenWeb.iml
 /MavenParent.iml
