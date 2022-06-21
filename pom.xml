@@ -26,7 +26,7 @@
 
     <dom4j.version>1.6.1</dom4j.version>
     <servlet.version>3.0.1</servlet.version>
-    <mysql.jar.version>5.1.38</mysql.jar.version>
+    <mysql.jar.version>8.0.28</mysql.jar.version>
     <xpath.version>1.1.6</xpath.version>
     <druid.version>1.1.12</druid.version>
     <junit.version>4.5</junit.version>
